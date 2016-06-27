@@ -1,0 +1,27 @@
+{
+  "name": "clockjs",
+  "version": "1.0.0",
+  "homepage": "https://github.com/djhvscf/clockjs",
+  "authors": [
+    "djhvscf <djhv92@hotmail.com>"
+  ],
+  "description": "A simple clock",
+  "main": [
+      "src/clock.js"
+  ],
+  "keywords": [
+    "clockjs",
+    "javaScript",
+	  "plugin"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "docs",
+    "assets"
+  ]
+}

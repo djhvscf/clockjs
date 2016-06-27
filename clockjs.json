@@ -1,0 +1,28 @@
+{
+    "name": "clockjs",
+    "version": "1.0.0",
+    "title": "Clock js",
+    "description": "A simple clock",
+    "author": {
+        "name": "Dennis Heránadez Vargas",
+        "email": "djhv92@hotmail.com",
+        "url": "http://djhvscf.github.io/Blog"
+    },
+    "licenses": [
+        {
+            "type": "MIT License",
+            "url": "http://opensource.org/licenses/MIT"
+        }
+    ],
+    "dependencies": {
+        
+    },
+    "keywords": ["clockjs.javascript"],
+    "homepage": "https://github.com/djhvscf/clockjs",
+    "demo": "",
+    "bugs": {
+        "url": "https://github.com/djhvscf/clockjs/issues"
+    },
+    "docs": "https://github.com/djhvscf/clockjs",
+    "download": "https://github.com/djhvscf/clockjs/releases"
+}
